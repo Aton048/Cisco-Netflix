@@ -52,4 +52,19 @@ En la imagen, un cable Ethernet conecta el módem al router. Este cable permite 
 
 **Comunicación dentro de la red local:** Cuando un dispositivo en la red local quiere comunicarse con otro dispositivo en la misma red, el router utiliza la dirección IP privada del dispositivo de destino para enviar la información.
 
+
+
+
+---------------------------------------------------------
+
+**REFERENCIAS**
+Cisco skills for all. (n.d.). Skillsforall.com. Retrieved February 20, 2024, from 
+https://skillsforall.com/es/launch?id=ec0847b7-e6fc-4597-bc31-38ddd6b07a2f&tab=curriculum&view=9803954e-324f-5b08-944b-45e844333f1c
+
+
+Getting started with Cisco Packet Tracer - skills for all. (n.d.). Skillsforall.com. Retrieved February 20, 2024, from
+https://skillsforall.com/es/course/getting-started-cisco-packet-tracer?courseLang=es-XL
+
+
+Arguelles, G. T. (2023, 30 abril). ¿Qué es DHCP? ¿Cómo Funciona? Ventajas. Access Quality - Presentación digital. https://www.accessq.com.mx/que-es-dhcp/#:~:text=DHCP%20(Dynamic%20Host%20Configuration%20Protocol,a%20cabo%20una%20configuración%20manual.
   
