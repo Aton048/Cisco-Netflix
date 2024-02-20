@@ -13,10 +13,10 @@ II: Funcionamiento Dispositivos
 
 
 III: Conexion con la Nube y Servidor
-1. Conexion netflix y Internet
+│ 1. Conexion netflix y Internet
 
 --------------------------------------------------------
-Introduccion:
+**Introduccion**
 Se presentara una solucion de redes donde donde veremos como conectar una familia con distintos dispositivos a los servidores de Netflix
 
 Se presento el problema de que la familia de Anita Gonzales desea desde sus distintos dispositivos conectarse a Netflix para poder ver distintas peliculas, por ello acudieron a nosotros para que les presentemos una solucion eficas a su problema
